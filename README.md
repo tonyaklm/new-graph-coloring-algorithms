@@ -20,13 +20,13 @@
 и затем сравниваются по количеству использованных цветов для раскраски.
 
 Таблица с результатами: 
-![results](results.png)
+![results](results-and-examples/results.png)
 
 ### Пример, как отличаются первый предложенный алгоритм (LDO + IDO) от того, на котором он основан (LDO):
-![ldo_vs_first_proposed](ldo_vs_first_proposed.gif)
+![ldo_vs_first_proposed](results-and-examples/ldo_vs_first_proposed.gif)
 
 ### Пример, как отличаются второй предложенный алгоритм (SDO + LDO) от того, на котором он основан (SDO):
-![sdo_vs_second_proposed](sdo_vs_second_proposed.gif)
+![sdo_vs_second_proposed](results-and-examples/sdo_vs_second_proposed.gif)
 
 ## Вывод
 Результаты воспроизвести удалось.
