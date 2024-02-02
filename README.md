@@ -22,10 +22,10 @@
 Таблица с результатами: 
 ![results](results-and-examples/results.png)
 
-### Пример, как отличаются первый предложенный алгоритм (LDO + IDO) от того, на котором он основан (LDO):
+**Пример, как отличаются первый предложенный алгоритм (LDO + IDO) от того, на котором он основан (LDO):**
 ![ldo_vs_first_proposed](results-and-examples/ldo_vs_first_proposed.gif)
 
-### Пример, как отличаются второй предложенный алгоритм (SDO + LDO) от того, на котором он основан (SDO):
+**Пример, как отличаются второй предложенный алгоритм (SDO + LDO) от того, на котором он основан (SDO):**
 ![sdo_vs_second_proposed](results-and-examples/sdo_vs_second_proposed.gif)
 
 ## Вывод
